@@ -2,9 +2,9 @@
 fontsize: 8pt
 geometry: margin=1in
 output:
+  html_document: default
   pdf_document:
     latex_engine: xelatex
-  html_document: default
 ---
 
 ```{r, echo = FALSE}
@@ -31,7 +31,6 @@ qs <- paste0(loc, "qs.jpg")
 **Bio-informatique et statistiques -- Écologie -- Géomatique**  
 
 cyr.dominic@gmail.com  
-4334, rue Berri, Montréal, H2J 2P8  
 514-279-4865  
 
 ```{r, fig.width = 0.7, fig.height = 0.35, echo = FALSE}
@@ -83,7 +82,7 @@ Automatisation, traitement et analyses de gros volumes de données, *data pipeli
 # Formation académique
 
 
-### 2002 -- 2010
+### 2010
 
 **Doctorat en sciences de l'environnement -- Université du Québec à Montréal**  
 
@@ -93,7 +92,7 @@ Automatisation, traitement et analyses de gros volumes de données, *data pipeli
 \  
 
 
-### 1998 -- 2001
+### 2001
 
 **Maîtrise en biologie -- Université du Québec à Montréal**  
 
@@ -103,7 +102,7 @@ Automatisation, traitement et analyses de gros volumes de données, *data pipeli
 \  
 
 
-### 1995 -- 1998
+### 1998
 
 **Baccalauréat en biologie -- Université du Québec à Montréal**  
 
