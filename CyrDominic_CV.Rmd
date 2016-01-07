@@ -2,9 +2,9 @@
 fontsize: 8pt
 geometry: margin=1in
 output:
+  html_document: default
   pdf_document:
     latex_engine: xelatex
-  html_document: default
 ---
 
 ```{r, echo = FALSE}
@@ -119,7 +119,7 @@ Automatisation, traitement et analyses de gros volumes de données, *data pipeli
 ### 2014 -- aujourd'hui
 
 
-**Biologiste - Programmation scientifique**  
+**Biologiste - Bio-informaticien**  
 **[Ministère des Ressources Naturelles du Canada -- Service Canadien des Forêts][101]**  
 
 ```{r, fig.width = 2, fig.height = 0.7, echo = FALSE}
@@ -132,8 +132,9 @@ grid.raster(logo)
     + Calage de la plate-forme de simulation [LANDIS-II][118].
     + Création d'un pont entre les différents modèles utilisés.
     + Post-traitement et visualisation des sorties de simulations.
-* Maintenance de dépôts sur [GitHub][116].
+* Maintenance de libraries de scripts et de résultats sur [GitHub][116].
 * Analyses de séries temporelles et de patrons épidémiques d'insectes nuisibles communs au Canada.
+* Évaluation de méthodes statistiques par simulation.
 
 Référence: Yan Boulanger, chercheur au Service Canadien des Forêts, yan.boulanger@canada.ca.   
 
