@@ -8,7 +8,7 @@ output:
 ---
 
 ```{r, echo = FALSE}
-setwd("/media/dcyr/Windows7_OS/Travail/Job/Markdown")
+setwd("/home/dcyr/Travail/Job/CV/")
 loc <- "./logos/"
 library(png)
 library(jpeg)
@@ -267,7 +267,7 @@ Références sur demande.
 
 # Publications avec comité de révision
 
-
+* Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.  
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
 * Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889– 908.
 * Bergeron _et al_. 2010. [Will climate change drive 21st century burn rates in Canadian boreal forest outside of its natural variability: collating global climate model experiments with sedimentary charcoal data][303]. International Journal of Wildland Fire 19: 1127–1139.
@@ -290,6 +290,7 @@ Références sur demande.
 [308]: http://link.springer.com/article/10.1007%2Fs10980-007-9109-3
 [309]: http://www.nrcresearchpress.com/doi/abs/10.1139/x06-177
 [310]: https://www.researchgate.net/publication/237866291_Are_the_Old-Growth_Forests_of_the_Clay_Belt_Part_of_a_Fire-Regulated_Mosaic
+[311]: http://doi.org/10.3390/f7070131
 
 \  
 
