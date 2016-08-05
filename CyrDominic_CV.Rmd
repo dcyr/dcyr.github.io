@@ -15,6 +15,7 @@ library(jpeg)
 library(grid)
 linkedIn <- paste0(loc, "linkedIn.png")
 mendeley <- paste0(loc, "mendeley.png")
+reseachGate <- paste0(loc, "researchGate.png")
 github <- paste0(loc, "github.png")
 nrcan <- paste0(loc, "nrcan.jpg")
 uqo <- paste0(loc, "uqo.jpg")
@@ -42,12 +43,18 @@ grid.raster(logo)
 logo <- readPNG(github)
 grid.raster(logo)
 ```
-([dcyr][001])  
+([dcyr][001])  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+```{r, fig.width = 0.9, fig.height = 0.45, echo = FALSE}
+logo <- readPNG(reseachGate)
+grid.raster(logo)
+```
+([cliquez ici][004]) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 
 [001]: http://github.com/dcyr
 [002]: https://ca.linkedin.com/in/dominic-cyr-8b729454
 [003]: https://www.mendeley.com/profiles/dominic-cyr/
-<!-- test one two three --> 
+[004]: https://www.researchgate.net/profile/Dominic_Cyr
 
 \ 
 
@@ -265,8 +272,16 @@ Références sur demande.
 ----------
 
 
-# Publications avec comité de révision
+# Publications avec comité de révision  
+Plus d'info disponible sur
+```{r, fig.width = 1, fig.height = 0.5, echo = FALSE}
+logo <- readPNG(reseachGate)
+grid.raster(logo)
+```
+([avec fichiers pdf][004]).  
 
+
+* Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.  
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
 * Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889– 908.
@@ -291,7 +306,7 @@ Références sur demande.
 [309]: http://www.nrcresearchpress.com/doi/abs/10.1139/x06-177
 [310]: https://www.researchgate.net/publication/237866291_Are_the_Old-Growth_Forests_of_the_Clay_Belt_Part_of_a_Fire-Regulated_Mosaic
 [311]: http://doi.org/10.3390/f7070131
-
+[312]: http://link.springer.com/article/10.1007/s10980-016-0421-7
 \  
 
 
