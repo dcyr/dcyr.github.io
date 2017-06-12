@@ -1,10 +1,7 @@
 ---
 fontsize: 8pt
 geometry: margin=1in
-output:
-  html_document: default
-  pdf_document:
-    latex_engine: xelatex
+output: html_document
 ---
 
 ```{r, echo = FALSE}
@@ -280,8 +277,8 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]).  
 
-
-* Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology
+* Taylor _et al_. Accepted pending revisions. Exploring the response of Canada's Acadian forest region to 21^st^ century climate change using the PICUS simulation model (Title subject to modification). Forest Ecology and Management  
+* Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology  
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.  
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
 * Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889– 908.
@@ -315,7 +312,7 @@ grid.raster(logo)
 
 # Autres publications récentes
 
-
+* Splawinski et al. 2017. Analyse du risque d'accident de rénénération en forêt boréale aménagée. Rapport remis au Ministère de la forêt, de la faune et des parcs du Québec.  
 * Doyon _et al_. 2012. [Avis scientifique sur l’impact des changements climatiques sur les forêts de l’Outaouais et l’adaptation du secteur forestier][402]. Rapport de l’Institut des Sciences de la Forêt tempérée (UQO), Ripon, 95 pp. + 5 annexes.  
 * Doyon _et al_. 2011. [Évaluation des vulnérabilités du secteur forestier dans les Hautes-Laurentides face aux impacts biophysiques des changements climatiques][401]. IQAFF, Ripon, Qc. 79p.  
 
