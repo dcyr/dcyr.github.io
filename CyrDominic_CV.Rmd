@@ -142,6 +142,11 @@ grid.raster(logo)
 * Maintenance de libraries de scripts et de résultats sur [GitHub][116].
 * Analyses de séries temporelles et de patrons épidémiques d'insectes nuisibles communs au Canada.
 * Évaluation de méthodes statistiques par simulation.
+* Projections de la qualité d'habitats fauniques sensibles au climat.
+    + Caribou forestier
+    + Grive de Bicknell
+    + Pic à dos noir
+* Conception et exécution d'expériences de simulation visant à estimer le risque d'accident de rénération à la limite nordique des forêts attribuables.
 
 Référence: Yan Boulanger, chercheur au Service Canadien des Forêts, yan.boulanger@canada.ca.   
 
@@ -278,9 +283,10 @@ Plus d'info disponible sur
 logo <- readPNG(reseachGate)
 grid.raster(logo)
 ```
-([avec fichiers pdf][004]).  
+([avec fichiers pdf][004]). 
 
-* Taylor _et al_. Accepted pending revisions. Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region. Forest Ecology and Management.
+* Boulanger _et al_. In Press. Stand-level drivers most important in determining boreal forest response to climate change. Journal of Ecology.
+* Taylor _et al_. In press. Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region. Forest Ecology and Management.
 * Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology.
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
