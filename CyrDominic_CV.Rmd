@@ -285,8 +285,8 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Boulanger _et al_. In Press. Stand-level drivers most important in determining boreal forest response to climate change. Journal of Ecology.
-* Taylor _et al_. In press. Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region. Forest Ecology and Management.
+* Boulanger _et al_. In press. Stand-level drivers most important in determining boreal forest response to climate change. Journal of Ecology.
+* Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
 * Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology.
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
@@ -313,6 +313,7 @@ grid.raster(logo)
 [310]: https://www.researchgate.net/publication/237866291_Are_the_Old-Growth_Forests_of_the_Clay_Belt_Part_of_a_Fire-Regulated_Mosaic
 [311]: http://doi.org/10.3390/f7070131
 [312]: http://link.springer.com/article/10.1007/s10980-016-0421-7
+[313]: http://www.sciencedirect.com/science/article/pii/S0378112717304127?via%3Dihub
 \  
 
 
