@@ -285,9 +285,9 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Boulanger _et al_. In press. Stand-level drivers most important in determining boreal forest response to climate change. Journal of Ecology.
+* Boulanger _et al_. In press. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
-* Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology.
+* Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology 32: 1415-1431.
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.
 * Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
 * Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889– 908.
@@ -314,6 +314,7 @@ grid.raster(logo)
 [311]: http://doi.org/10.3390/f7070131
 [312]: http://link.springer.com/article/10.1007/s10980-016-0421-7
 [313]: http://www.sciencedirect.com/science/article/pii/S0378112717304127?via%3Dihub
+[314]: http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12892/full
 \  
 
 
@@ -401,11 +402,28 @@ Bourse d’excellence institutionnelle pour les étudiantes, étudiants de maît
 
 # Bénévolat et engagement communautaire
 
+### 2017 -- aujourd'hui
+
+Membre du Conseil d'administration [Collège Saint-Sacrement][601]  
+Établissement privé d'enseignement au secondaire, Terrebonne  
+
+
+* Définition des enjeux et orientations stratégiques  
+* Approbation des programmes et budgets  
+* Embauche et encadrement du directeur général  
+* Assurer la perennité du Collège  
+    + Gestion de risque  
+    + Réputation et viabilité du Collège 
+* Maintien et développement des réseaux dans la communauté  
+
+
+\  
+
 
 ### 2006 -- aujourd'hui
 
 Membre de la Corporation du [Collège Saint-Sacrement][601]  
-Établissement privé d'enseignement au secondaire, Terrebonne.  
+Établissement privé d'enseignement au secondaire, Terrebonne
 
 * Réception des états financiers et du rapport de la direction du Collège
 * Élection du Conseil d'administration
