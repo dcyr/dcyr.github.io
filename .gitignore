@@ -1,0 +1,8 @@
+.Rhistory
+[0-9]*
+otherVersions
+logos
+*.Rmd
+*.html
+*~
+
