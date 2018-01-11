@@ -2,10 +2,10 @@
 fontsize: 8pt
 geometry: margin=1in
 output:
-  word_document: default
+  html_document: default
   pdf_document:
     latex_engine: xelatex
-  html_document: default
+  word_document: default
 ---
 
 ```{r, echo = FALSE}
@@ -18,13 +18,14 @@ linkedIn <- paste0(loc, "linkedIn.png")
 mendeley <- paste0(loc, "mendeley.png")
 reseachGate <- paste0(loc, "researchGate.png")
 github <- paste0(loc, "github.png")
-nrcan <- paste0(loc, "nrcan.jpg")
+nrcan <- paste0(loc, "nrcan_cropped.jpg")
 uqo <- paste0(loc, "uqo.jpg")
 fsc <- paste0(loc, "fsc.png")
 mcdef <- paste0(loc, "mcdef.png")
 crsng <- paste0(loc, "crsng.jpg")
 frqnt <- paste0(loc, "frqnt.png")
 qs <- paste0(loc, "qs.jpg")
+eccc <- paste0(loc, "eccc.png")
 
 ```
 
@@ -123,14 +124,31 @@ Automatisation, traitement et analyses de gros volumes de données, *data pipeli
 
 # Expérience professionnelle
 
+### 2018 -- aujourd'hui
 
-### 2014 -- aujourd'hui
+
+**Chercheur scientifique**  
+**[Environnement et Changement climatique Canada][119] -- Division des inventaires et rapports sur les polluants**  
+
+```{r, fig.width = 4.25, fig.height = 0.3, echo = FALSE}
+logo <- readPNG(eccc)
+grid.raster(logo)
+```
+
+
+* Modélisation des écosystèmes forestiers - Dynamique du carbone
+
+
+\  
+
+
+### 2014 -- 2017
 
 
 **Biologiste - Bio-informaticien**  
 **[Ministère des Ressources Naturelles du Canada -- Service Canadien des Forêts][101]**  
 
-```{r, fig.width = 2, fig.height = 0.7, echo = FALSE}
+```{r, fig.width = 3, fig.height = 0.3, echo = FALSE}
 logo <- readJPEG(nrcan)
 grid.raster(logo)
 ```
@@ -208,6 +226,7 @@ Références sur demande.
 [116]: https://github.com/
 [117]: http://cfs.nrcan.gc.ca/publications?id=36344
 [118]: http://www.landis-ii.org/
+[119]: https://www.canada.ca/fr/environnement-changement-climatique.html
 
 \  
 
@@ -286,6 +305,7 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
+* Tremblay _et al_. Accepted. Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest. PLOS One.
 * Boulanger _et al_. In press. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
 * Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology 32: 1415-1431.
