@@ -31,7 +31,7 @@ eccc <- paste0(loc, "eccc.png")
 
 # Dominic Cyr, _PhD_
 
-**Bio-informatique et statistiques -- Écologie -- Géomatique**  
+**Modélisation d'écosystèmes forestiers -- Dynamique des pertubations naturelles -- Aménagement forestier -- Dynamique du carbone**  
 
 cyr.dominic@gmail.com  
 514-279-4865  
@@ -305,8 +305,8 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Tremblay _et al_. Accepted. Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest. PLOS One.
-* Boulanger _et al_. In press. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
+* Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
+* Boulanger _et al_. 2017. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
 * Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology 32: 1415-1431.
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.
@@ -336,6 +336,7 @@ grid.raster(logo)
 [312]: http://link.springer.com/article/10.1007/s10980-016-0421-7
 [313]: http://www.sciencedirect.com/science/article/pii/S0378112717304127?via%3Dihub
 [314]: http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12892/full
+[315]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191645
 \  
 
 
