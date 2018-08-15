@@ -9,7 +9,9 @@ output:
 ---
 
 ```{r, echo = FALSE}
-setwd("/home/dcyr/Travail/Job/CV/")
+home <- path.expand("~")
+home <- gsub("/Documents", "", home) # necessary on my Windows machine
+setwd(paste(home, "Sync/Travail/ECCC/regenFailureRiskAssessment_phase2", sep ="/"))
 loc <- "./logos/"
 library(png)
 library(jpeg)
@@ -63,29 +65,6 @@ grid.raster(logo)
 ----------
 
 \ 
-
-À la suite d'une formation disciplinaire en biologie, ma production scientifique a principalement porté sur le transfert de connaissances sur la forêt boréale vers l'application en gestion des écosystèmes forestiers.
-
-Je me consacre de plus en plus aux aspects techniques de ce défi, alors que mes collègues et moi-même cherchons à améliorer l'intégration et le transfert de nos connaissances vers les sphères décisionnelles à l'aide de la modélisation informatique.
-
-Automatisation, traitement et analyses de gros volumes de données, *data pipelining* et visualisation constituent maintenant l'essentiel de mon travail. Celui-ci est effectué à l'aide d'une grande variété de logiciels *open source* ou propriétaires, en tâchant de ne jamais perdre de vue le contexte de gouvernance que nous cherchons à mieux informer.
-
-\  
-
-
-
-**Bilingue Français -- Anglais**
-
-\  
-
-
-*Pour bénéficier de la version complète de ce document avec hyperliens actifs, visitez <http://dominiccyr.ca>.
-
-
-\  
-
-----------
-
 
 
 # Formation académique
