@@ -3,9 +3,9 @@ fontsize: 8pt
 geometry: margin=1in
 output:
   html_document: default
+  word_document: default
   pdf_document:
     latex_engine: xelatex
-  word_document: default
 ---
 
 ```{r, echo = FALSE}
@@ -133,18 +133,18 @@ grid.raster(logo)
 ```
 
 
-* Participation à un exercice de simulation pan-canadien de paysage forestier dans le cadre du projet [_Forest Change_][117].
+* Participation à un exercice de simulation pancanadien de paysage forestier dans le cadre du projet [_Forest Change_][117].
     + Calage de la plate-forme de simulation [LANDIS-II][118].
     + Création d'un pont entre les différents modèles utilisés.
     + Post-traitement et visualisation des sorties de simulations.
-* Maintenance de libraries de scripts et de résultats sur [GitHub][116].
+* Maintenance de librairies de scripts et de résultats sur [GitHub][116].
 * Analyses de séries temporelles et de patrons épidémiques d'insectes nuisibles communs au Canada.
 * Évaluation de méthodes statistiques par simulation.
 * Projections de la qualité d'habitats fauniques sensibles au climat.
     + Caribou forestier
     + Grive de Bicknell
     + Pic à dos noir
-* Conception et exécution d'expériences de simulation visant à estimer le risque d'accident de rénération à la limite nordique des forêts attribuables.
+* Conception et exécution d'expériences de simulation visant à estimer le risque d'accident de régénération à la limite nordique des forêts attribuables.
 
 Référence: Yan Boulanger, chercheur au Service Canadien des Forêts, yan.boulanger@canada.ca.   
 
@@ -284,6 +284,8 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
+* Boulanger _et al_. Accepted. Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada. Landscape Ecology.  
+* Splawinski _et al_. Accepted. Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec. Canadian Journal of Forest Research.
 * Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
 * Boulanger _et al_. 2017. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
@@ -412,7 +414,7 @@ Membre du Conseil d'administration du [Collège Saint-Sacrement][601]
 * Définition des enjeux et orientations stratégiques  
 * Approbation des programmes et budgets  
 * Embauche et encadrement du directeur général  
-* Assurer la perennité du Collège  
+* Assurer la pérennité du Collège  
     + Gestion de risque  
     + Réputation et viabilité du Collège 
 * Maintien et développement des réseaux dans la communauté  
