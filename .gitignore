@@ -3,7 +3,6 @@
 otherVersions
 logos
 *.Rmd
-*.html
 *.pdf
 *.docx
 *~
