@@ -284,6 +284,7 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
+* Tremblay _et al_. Accepted. Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell’s Thrush (Catharus Bicknelli) as a case study. Global Ecology and Conservation. 
 * Boulanger _et al_. Accepted. Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada. Landscape Ecology.  
 * Splawinski _et al_. Accepted. Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec. Canadian Journal of Forest Research.
 * Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
