@@ -284,9 +284,9 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Tremblay _et al_. Accepted. Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell’s Thrush (Catharus Bicknelli) as a case study. Global Ecology and Conservation. 
-* Boulanger _et al_. Accepted. Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada. Landscape Ecology.  
-* Splawinski _et al_. Accepted. Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec. Canadian Journal of Forest Research.
+* Cadieux _et al_. 2019. [Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell’s Thrush (Catharus Bicknelli) as a case study][318]. Global Ecology and Conservation 17: e00530. 
+* Boulanger _et al_. 2019. [Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada][317]. Landscape Ecology.  
+* Splawinski _et al_. 2019. [Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec][316]. Canadian Journal of Forest Research.
 * Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
 * Boulanger _et al_. 2017. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
@@ -319,6 +319,9 @@ grid.raster(logo)
 [313]: http://www.sciencedirect.com/science/article/pii/S0378112717304127?via%3Dihub
 [314]: http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12892/full
 [315]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191645
+[316]: http://www.nrcresearchpress.com/doi/pdf/10.1139/cjfr-2018-0278
+[317]: https://link.springer.com/article/10.1007/s10980-018-0761-6
+[318]: https://www.sciencedirect.com/science/article/pii/S2351989418304384
 \  
 
 
