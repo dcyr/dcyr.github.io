@@ -74,7 +74,7 @@ grid.raster(logo)
 
 **Doctorat en sciences de l'environnement -- Université du Québec à Montréal**  
 
-* Thèse: Cycle des feux, vieilles forêts et aménagement en forêt boréale de l’est du Canada.
+* Thèse: Cycle des feux, vieilles forêts et aménagement en forêt boréale de l'est du Canada.
 * Supervision: Sylvie Gauthier, Service Canadien des Forêts, sylvie.gauthier@canada.ca
 
 \  
@@ -84,7 +84,7 @@ grid.raster(logo)
 
 **Maîtrise en biologie -- Université du Québec à Montréal**  
 
-* Mémoire: La place des forêts anciennes du nord de l’Abitibi dans une mosaïque régulée par les incendies forestiers.
+* Mémoire: La place des forêts anciennes du nord de l'Abitibi dans une mosaïque régulée par les incendies forestiers.
 * Supervision: Yves Bergeron, UQAM-UQAT, yves.bergeron@uqat.ca 
 
 \  
@@ -284,7 +284,8 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Cadieux _et al_. 2019. [Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell’s Thrush (Catharus Bicknelli) as a case study][318]. Global Ecology and Conservation 17: e00530. 
+* Nenzén _et al_. 2019. Projected climate change effects on Alberta’s boreal forests imply future challenges for oil sands reclamation. Accepted in Restoration Ecology.
+* Cadieux _et al_. 2019. [Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell's Thrush (Catharus Bicknelli) as a case study][318]. Global Ecology and Conservation 17: e00530. 
 * Boulanger _et al_. 2019. [Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada][317]. Landscape Ecology.  
 * Splawinski _et al_. 2019. [Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec][316]. Canadian Journal of Forest Research.
 * Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
@@ -292,17 +293,17 @@ grid.raster(logo)
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
 * Boulanger _et al_. 2016 [Climate change impacts on forest landscapes along the Canadian southern boreal forest transition zone][312]. Landscape Ecology 32: 1415-1431.
 * Cyr _et al_. 2016. [Quantifying fire cycle from dendroecological records using survival analyses][311]. Forests 7.
-* Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140–150.
-* Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889– 908.
-* Bergeron _et al_. 2010. [Will climate change drive 21st century burn rates in Canadian boreal forest outside of its natural variability: collating global climate model experiments with sedimentary charcoal data][303]. International Journal of Wildland Fire 19: 1127–1139.
-* Cyr _et al_. 2010. [A simple Bayesian Belief Network for estimating the proportion of old-forest stands in the Clay Belt of Ontario using the provincial forest inventory][304]. Canadian Journal of Forest Research 40: 573–584.
-* Senici _et al_. 2010. [Spatiotemporal variations of fire frequency in central boreal forest][305]. Ecosystems 13: 1227–1238.
-* Cyr _et al_. 2009. [Forest management is driving the eastern North American boreal forest outside its natural range of variability][306]. Frontiers in Ecology and the Environment 7: 19–524.
-* De Grandpré _et al_. 2009. Towards an ecosystem approach to managing the boreal forest in the North Shore region: Disturbance regime and natural forest dynamics. pp. 229–258 *In* [Ecosystem management in the boreal forest][307], *Éd.* S. Gauthier _et al_. Les Presses de l'Université du Québec.
-* Leduc _et al_. 2009. Perspectives. pp. 519–526 *In* [Ecosystem management in the boreal forest][307], *Éd.* S. Gauthier _et al_. Les Presses de l'Université du Québec.
-* Cyr _et al_. 2007. [Scale-dependent determinants of heterogeneity in fire frequency in a coniferous boreal forest of eastern Canada][308]. Landscape Ecology 22: 1325–1339.
-* Bergeron _et al_. 2006. [Past, current, and future fire frequencies in Quebec’s commercial forests: implications for the cumulative effects of harvesting and fire on age-class structure and natural disturbance-based management][309]. Canadian Journal of Forest Research 36: 2737–2744.
-* Cyr _et al_. 2005. [Are the old-growth forests of the Clay Belt part of a fire-regulated mosaic?][310] Canadian Journal of Forest Research 73: 65–73.
+* Cyr _et al_. 2012. [The influence of landscape-level heterogeneity in fire frequency on canopy composition in the boreal forest of eastern Canada][301]. Journal of Vegetation Science 23: 140-150.
+* Bélisle _et al_. 2011. [Fire Regime and Old-Growth Boreal Forests in Central Quebec, Canada : An Ecosystem Management Perspective][302]. Silva Fennica 45: 889- 908.
+* Bergeron _et al_. 2010. [Will climate change drive 21st century burn rates in Canadian boreal forest outside of its natural variability: collating global climate model experiments with sedimentary charcoal data][303]. International Journal of Wildland Fire 19: 1127-1139.
+* Cyr _et al_. 2010. [A simple Bayesian Belief Network for estimating the proportion of old-forest stands in the Clay Belt of Ontario using the provincial forest inventory][304]. Canadian Journal of Forest Research 40: 573-584.
+* Senici _et al_. 2010. [Spatiotemporal variations of fire frequency in central boreal forest][305]. Ecosystems 13: 1227-1238.
+* Cyr _et al_. 2009. [Forest management is driving the eastern North American boreal forest outside its natural range of variability][306]. Frontiers in Ecology and the Environment 7: 19-524.
+* De Grandpré _et al_. 2009. Towards an ecosystem approach to managing the boreal forest in the North Shore region: Disturbance regime and natural forest dynamics. pp. 229-258 *In* [Ecosystem management in the boreal forest][307], *Éd.* S. Gauthier _et al_. Les Presses de l'Université du Québec.
+* Leduc _et al_. 2009. Perspectives. pp. 519-526 *In* [Ecosystem management in the boreal forest][307], *Éd.* S. Gauthier _et al_. Les Presses de l'Université du Québec.
+* Cyr _et al_. 2007. [Scale-dependent determinants of heterogeneity in fire frequency in a coniferous boreal forest of eastern Canada][308]. Landscape Ecology 22: 1325-1339.
+* Bergeron _et al_. 2006. [Past, current, and future fire frequencies in Quebec's commercial forests: implications for the cumulative effects of harvesting and fire on age-class structure and natural disturbance-based management][309]. Canadian Journal of Forest Research 36: 2737-2744.
+* Cyr _et al_. 2005. [Are the old-growth forests of the Clay Belt part of a fire-regulated mosaic?][310] Canadian Journal of Forest Research 73: 65-73.
 
 [301]: http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01338.x/abstract
 [302]: http://www.metla.fi/silvafennica/full/sf45/sf455889.pdf
@@ -331,7 +332,7 @@ grid.raster(logo)
 # Autres publications récentes
 
 * Splawinski et al. 2017. Analyse du risque d'accident de rénénération en forêt boréale aménagée. Rapport remis au Ministère de la forêt, de la faune et des parcs du Québec.
-* Doyon _et al_. 2012. [Avis scientifique sur l’impact des changements climatiques sur les forêts de l’Outaouais et l’adaptation du secteur forestier][402]. Rapport de l’Institut des Sciences de la Forêt tempérée (UQO), Ripon, 95 pp. + 5 annexes.
+* Doyon _et al_. 2012. [Avis scientifique sur l'impact des changements climatiques sur les forêts de l'Outaouais et l'adaptation du secteur forestier][402]. Rapport de l'Institut des Sciences de la Forêt tempérée (UQO), Ripon, 95 pp. + 5 annexes.
 * Doyon _et al_. 2011. [Évaluation des vulnérabilités du secteur forestier dans les Hautes-Laurentides face aux impacts biophysiques des changements climatiques][401]. IQAFF, Ripon, Qc. 79p.
 
 [401]: http://isfort.uqo.ca/sites/isfort.uqo.ca/files/fichiers/publications_ISFORT/evaluation_des_vulnerabilites_du_secteur_forestier_dans_les_hautes-laurentides_face_aux_impacts_biophysiques_d.pdf
@@ -391,7 +392,7 @@ grid.raster(logo)
 
 ### 2001 -- 2003
 
-Bourse d’excellence institutionnelle pour les étudiantes, étudiants de maîtrise et de doctorat. 
+Bourse d'excellence institutionnelle pour les étudiantes, étudiants de maîtrise et de doctorat. 
 
 [501]: http://www.mcf.uqam.ca/
 [502]: http://www.frqnt.gouv.qc.ca/accueil
