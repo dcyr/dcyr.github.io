@@ -2,10 +2,10 @@
 fontsize: 8pt
 geometry: margin=1in
 output:
-  html_document: default
-  word_document: default
   pdf_document:
     latex_engine: xelatex
+  word_document: default
+  html_document: default
 ---
 
 ```{r, echo = FALSE}
@@ -284,10 +284,12 @@ grid.raster(logo)
 ```
 ([avec fichiers pdf][004]). 
 
-* Nenzén _et al_. 2019. Projected climate change effects on Alberta’s boreal forests imply future challenges for oil sands reclamation. Accepted in Restoration Ecology.
+* Molina _et al_. 2021. [Projecting future aboveground biomass and productivity of managed eastern Canadian mixedwood boreal forest in response to climate change][321]. Forest Ecology and Management 487.
+* Cadieux _et al_. 2020. [Projected effects of climate change on boreal bird community accentuated by anthropogenic disturbances in western boreal forest, Canada][320]. Diversity and Distribution 26: 668-682.
+* Nenzén _et al_. 2019. [Projected climate change effects on Alberta’s boreal forests imply future challenges for oil sands reclamation][319]. Accepted in Restoration Ecology.
 * Cadieux _et al_. 2019. [Spatially explicit climate change projections for the recovery planning of threatened species: the Bicknell's Thrush (Catharus Bicknelli) as a case study][318]. Global Ecology and Conservation 17: e00530. 
 * Boulanger _et al_. 2019. [Climate change will affect the ability of forest management to reduce gaps between current and presettlement forest composition in southeastern Canada][317]. Landscape Ecology.  
-* Splawinski _et al_. 2019. [Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec][316]. Canadian Journal of Forest Research.
+* Splawinski _et al_. 2018. [Analyzing risk of regeneration failure in the managed boreal forest of North-western Quebec][316]. Canadian Journal of Forest Research.
 * Tremblay _et al_. 2018. [Harvesting interacts with climate change to affect future habitat quality of a focal species in eastern Canada's boreal forest][315]. PLOS One.
 * Boulanger _et al_. 2017. [Stand-level drivers most important in determining boreal forest response to climate change][314]. Journal of Ecology.
 * Taylor _et al_. 2017. [Rapid 21^st^ century climate change projected to shift composition and growth of Canada's Acadian Forest Region][313]. Forest Ecology and Management 405: 284-294.
@@ -306,7 +308,7 @@ grid.raster(logo)
 * Cyr _et al_. 2005. [Are the old-growth forests of the Clay Belt part of a fire-regulated mosaic?][310] Canadian Journal of Forest Research 73: 65-73.
 
 [301]: http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01338.x/abstract
-[302]: http://www.metla.fi/silvafennica/full/sf45/sf455889.pdf
+[302]: https://doi.org/10.14214/sf.77
 [303]: http://www.publish.csiro.au/paper/WF09092
 [304]: http://www.nrcresearchpress.com/doi/abs/10.1139/X10-025
 [305]: http://link.springer.com/article/10.1007%2Fs10021-010-9383-9
@@ -314,7 +316,7 @@ grid.raster(logo)
 [307]: http://www.puq.ca/catalogue/themes/ecosystem-management-the-boreal-forest-1771.html
 [308]: http://link.springer.com/article/10.1007%2Fs10980-007-9109-3
 [309]: http://www.nrcresearchpress.com/doi/abs/10.1139/x06-177
-[310]: https://www.researchgate.net/publication/237866291_Are_the_Old-Growth_Forests_of_the_Clay_Belt_Part_of_a_Fire-Regulated_Mosaic
+[310]: https://cdnsciencepub.com/doi/10.1139/x04-204
 [311]: http://doi.org/10.3390/f7070131
 [312]: http://link.springer.com/article/10.1007/s10980-016-0421-7
 [313]: http://www.sciencedirect.com/science/article/pii/S0378112717304127?via%3Dihub
@@ -323,6 +325,9 @@ grid.raster(logo)
 [316]: http://www.nrcresearchpress.com/doi/pdf/10.1139/cjfr-2018-0278
 [317]: https://link.springer.com/article/10.1007/s10980-018-0761-6
 [318]: https://www.sciencedirect.com/science/article/pii/S2351989418304384
+[319]: https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13051
+[320]: https://onlinelibrary.wiley.com/doi/10.1111/ddi.13057
+[321]: https://doi.org/10.1016/j.foreco.2021.119016
 \  
 
 
@@ -331,13 +336,15 @@ grid.raster(logo)
 
 # Autres publications récentes
 
-* Splawinski et al. 2017. Analyse du risque d'accident de rénénération en forêt boréale aménagée. Rapport remis au Ministère de la forêt, de la faune et des parcs du Québec.
+* Seto _et al_. 2019. [La gestion du risque intégrée à la prise de décision en aménagement forestier: le cas des zones sensibles de la forêt boréale][404].
+* Splawinski _et al_. 2019. [Ajustement des stratégies de production de bois dans certaines portions sensibles de la forêt boréale][403].
 * Doyon _et al_. 2012. [Avis scientifique sur l'impact des changements climatiques sur les forêts de l'Outaouais et l'adaptation du secteur forestier][402]. Rapport de l'Institut des Sciences de la Forêt tempérée (UQO), Ripon, 95 pp. + 5 annexes.
 * Doyon _et al_. 2011. [Évaluation des vulnérabilités du secteur forestier dans les Hautes-Laurentides face aux impacts biophysiques des changements climatiques][401]. IQAFF, Ripon, Qc. 79p.
 
 [401]: http://isfort.uqo.ca/sites/isfort.uqo.ca/files/fichiers/publications_ISFORT/evaluation_des_vulnerabilites_du_secteur_forestier_dans_les_hautes-laurentides_face_aux_impacts_biophysiques_d.pdf
 [402]: http://isfort.uqo.ca/sites/isfort.uqo.ca/files/fichiers/publications_ISFORT/avis_scientifique_sur_l_impact_des_changements_climatiques_sur_les_forets_de_l_outaouais_et_l_adaptation_du_secteur_forestier.pdf
-
+[403]: https://www.researchgate.net/publication/339849177_Ajustement_des_strategies_de_production_de_bois_dans_certaines_portions_sensibles_de_la_foret_boreale?channel=doi&linkId=5e690e0b458515eccc449f56&showFulltext=true
+[404]: https://www.researchgate.net/publication/332230803_La_gestion_du_risque_integree_a_la_prise_de_decision_en_amenagement_forestier_le_cas_des_zones_sensibles_de_la_foret_boreale
 
 \  
 
